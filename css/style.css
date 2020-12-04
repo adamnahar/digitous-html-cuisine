@@ -1,3 +1,5 @@
-.body {
-    background-color: rosybrown;
+header {
+    background-image: url(../../digitous-html-cuisine/img/header.jpg); 
+    height: 600px;
+    background-size: cover;
 }
